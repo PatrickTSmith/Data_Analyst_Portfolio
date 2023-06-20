@@ -7,9 +7,36 @@ This repository is a collection of my best projects from the Data Analyst Path t
 
 ## Personal Projects
 
-Excel - Bike Shop Dashboard
+Excel 
+- Bike Shop Dashboard
 
+Python
+- Board Game Geek
+- Dallas County Animal Shelter
+- Climate Change?
+
+SQL
+- asdf
+
+Power BI
+- 
+
+Tableau
+- 
 
 ## Dataquest Projects
+Python
+- Helicopter Prison Escapes
+- Finding Heavy Traffic Indicators on I-94
+- Storytelling and Data Visualization on Exchange Rates for the Euro
+- Storytelling and Data Visualization on Exchange Rates for the Euro
+- Analyzing NYC High School Data
 
-Python - Helicopter Prison Escapes
+SQLite in Jupyter Notebook 
+- Analyzing CIA World Factbook Data (Python, SQLite)
+- Answering Business Questions (Python/Jupyter Notebook, SQLite)
+
+
+Source code is licensed under the [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+Contents of this site are © Copyright 2023 Patrick T. Smith. All rights reserved.
