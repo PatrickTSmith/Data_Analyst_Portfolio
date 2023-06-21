@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-This repository is a collection of my best projects from the Data Analyst Path that I finished on [Dataquest.io](https://app.dataquest.io/verify_cert/L851G8R495K0I52XGW5S/), as well as my own Personal Projects.  They are mostly done in Python, specifically in Jupyter Notebooks, with some done with Microsoft Excel, SQL, Power BI, and Tableau. 
+This repository is a collection of select projects from the Data Analyst Path that I finished on [Dataquest.io](https://app.dataquest.io/verify_cert/L851G8R495K0I52XGW5S/), as well as my own Personal Projects.  They are mostly done in Python, specifically in Jupyter Notebooks, with some done with Microsoft Excel, SQL, Power BI, and Tableau. 
 
 
 # Projects
@@ -8,28 +8,22 @@ This repository is a collection of my best projects from the Data Analyst Path t
 ## Personal Projects
 
 Excel 
-- Bike Shop Dashboard
+- [Bike Shop Dashboard](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Personal/Bike%20Shop%20Transactions%20dashboard%20in%20Excel)
 
 Python
 - Board Game Geek
 - Dallas County Animal Shelter
 - Climate Change?
 
-SQL
-- asdf
-
-Power BI
-- 
 
 Tableau
 - 
 
 ## Dataquest Projects
 Python
-- Helicopter Prison Escapes
+- [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
 - Finding Heavy Traffic Indicators on I-94
-- Storytelling and Data Visualization on Exchange Rates for the Euro
-- Storytelling and Data Visualization on Exchange Rates for the Euro
+- Storytelling and Data Visualization on Exchange Rates for the 
 - Analyzing NYC High School Data
 
 SQLite in Jupyter Notebook 
