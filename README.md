@@ -10,25 +10,10 @@ This repository is a collection of select projects from the Data Analyst Path th
 Excel 
 - [Bike Shop Dashboard](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Personal/Bike%20Shop%20Transactions%20dashboard%20in%20Excel)
 
-Python
-- Board Game Geek
-- Dallas County Animal Shelter
-- Climate Change?
-
-
-Tableau
-- 
-
 ## Dataquest Projects
 Python
 - [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
-- Finding Heavy Traffic Indicators on I-94
-- Storytelling and Data Visualization on Exchange Rates for the 
-- Analyzing NYC High School Data
 
-SQLite in Jupyter Notebook 
-- Analyzing CIA World Factbook Data (Python, SQLite)
-- Answering Business Questions (Python/Jupyter Notebook, SQLite)
 
 
 Source code is licensed under the [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
