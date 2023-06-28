@@ -49,6 +49,16 @@ I found that in the years 1971-2020, there have been 48 escape attempts, or appr
 
 <br>
 
+## Visuals
+
+The below are some of the visuals generated in this analysis:
+
+![](Visuals/attempts_per_year.jpg)
+<br><br>
+![](Visuals/attempts_by_country.jpg)
+<br><br>
+![](Visuals/success_rate_by_number_of_attempts.jpg)
+
 ## Future work
 
 In the future, I might like to look to answer addition questions such as:
@@ -60,21 +70,14 @@ The way that the escapees are listed in the table with no clear separator and so
 
 <br>
 
-## Visuals
 
-The below are some of the visuals generated in this analysis:
-
-![](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/blob/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python/attempts_per_year.JPG)
-![](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/blob/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python/attempts_by_country.JPG)
-![](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/blob/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python/success_rate_by_number_of_attempts.JPG)
 
 
 ## Acknowledgments/References
 
-Guided project: [Dataquest](https://app.dataquest.io/c/115/m/610/guided-project%3A-prison-break/1/jupyter-notebook)
-</br>
-Dataset: [wikipedia](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes)
-<br><br>
+- Guided project: [Dataquest](https://app.dataquest.io/c/115/m/610/guided-project%3A-prison-break/1/jupyter-notebook)
+- Dataset: [Wikipedia](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes)
+
 ## License
 
 Source code is licensed under the [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
