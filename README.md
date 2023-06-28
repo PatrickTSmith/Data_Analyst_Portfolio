@@ -12,7 +12,8 @@ Excel
 
 ## Dataquest Projects
 Python
-- [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
+- [1_ 2 Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
+- [2_2 Finding Heavy Traffic Indicators on I-94](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/2_2%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94)
 
 
 
