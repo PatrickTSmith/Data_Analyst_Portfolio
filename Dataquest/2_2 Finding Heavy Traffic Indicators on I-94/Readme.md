@@ -38,11 +38,24 @@ The data was relatively clean. I did convert the `date_time` column to datetime 
 <br><br>
 ## Code structure
 
-    ├─ Finding Heavy Traffic Indicators on I-94.ipynb
-    ├─ Metro_Interstate_Traffic_Volume.csv
+    ├── Finding Heavy Traffic Indicators on I-94.ipynb
+    ├── Metro_Interstate_Traffic_Volume.csv
+    └── Visuals
+        ├── histogram_day_vs_night.jpg
+        ├── histogram_traffic_flow.jpg
+        └── weather_description_traffic_flow.jpg
+        
+        
 <br><br>
 ## Results and evaluation
 I discovered multiple time and weather-related indicators of heavy traffic on I-94.  Traffic tends to be heavier in warmer months ((March–October) compared to cold months (November–February)).  Traffic is heavier during the day, particularly weekdays, with rush hours centering around hours 7 (7 AM) and 16 (4 PM)
+
+### Visuals
+![](Visuals/histogram_day_vs_night.jpg)
+<br><br>
+![](Visuals/histogram_traffic_flow.jpg)
+<br><br>
+![](Visuals/weather_description_traffic_flow.jpg)
 
 <br><br>
 ## Future work
@@ -53,8 +66,6 @@ I would like to do more reasearch into the drop in traffic in July in 2016,2017,
 
 Guided Project: Dataquest
 Dataset: John Hogue from the UCI Machine Learning Repository
-<br><br>
-## Visuals
 <br><br>
 ## License
 Source code is licensed under the [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).

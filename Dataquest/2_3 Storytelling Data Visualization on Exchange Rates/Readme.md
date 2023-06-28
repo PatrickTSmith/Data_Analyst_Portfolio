@@ -40,14 +40,21 @@ Since I ws looking at only euro's exchange rate with the U.S. Dollar, first I sp
     ├─ Storytelling Data Visualization on Exchange Rates.ipynb
     ├─ euro-daily-hist_1999_2020.csv
     ├─ Readme.md
-    ├── Visuals
-    │   ├── presidencies.jpg
-    │   ├── unsmoothed_rate.jpg
-    │   ├── unsmoothed_vs_rolling.jpg
+    └─ Visuals
+       ├── presidencies.jpg
+       ├── unsmoothed_rate.jpg
+       └── unsmoothed_vs_rolling.jpg
     
 
 ## Results and evaluation
 By graphing the euro/dollar exchange rate and color-coding them by presidential term, I found that the rate increased during Bush and Trump's terms and decreased during Obama's and through research discovered it is common for the exchange rate to rise and fall during Republicans' and Democrats' presidencies, respectively. 
+
+## Visuals
+![](Visuals/unsmoothed_rate.jpg)
+<br><br>
+![](Visuals/unsmoothed_vs_rolling.jpg)
+<br><br>
+![](Visuals/presidencies.jpg)
 
 ## Future work
 I would like to explore how the exchange rates were affected by major world events such as 9/11 and the Covid pandemic.  It would also be interesting to compare multiple other currencies, and look for trends such as which rates tend to rise and fall together, if there are trends in certain geographic areas, or if currencies with similar relative strengths perform similarly. 
@@ -57,10 +64,6 @@ I would like to explore how the exchange rates were affected by major world even
 Guided Project: Dataquest
 Dataset: Daria Chemkaeva, Kaggle.com, and The European Central Bank.
 
-## Visuals
-[](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/2_3 Storytelling Data Visualization on Exchange Rates/unsmoothed_rate.jpg)
-[](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/2_3 Storytelling Data Visualization on Exchange Rates/unsmoothed_vs_rolling.jpg)
-[](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/2_3 Storytelling Data Visualization on Exchange Rates/presidencies.jpg)
 
 ## License
 Source code is licensed under the [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
