@@ -14,7 +14,7 @@ Python
 - [Storytelling Data Visualization on Exchange Rates](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/2_3%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates)
 
 ## SQL
-- [CIA_Factbook_Analysis in SQL](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/CIA_Factbook_Analysis%20in%20SQL)
+- [CIA_Factbook_Analysis in SQL](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/CIA%20Factbook%20Analysis%20in%20SQL)
 - Answering Data Questions in SQL 
 
 ## Licenses
