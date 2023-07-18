@@ -16,6 +16,9 @@ This repository is a collection of select projects showcasing my analysis skills
 ### SQL
 - [CIA_Factbook_Analysis in SQL](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/CIA%20Factbook%20Analysis%20in%20SQL)
 
+### Tableau
+
+View my [Tableau Page](https://public.tableau.com/app/profile/patrick.smith1704)
 
 ## About Me
 Hi. I'm Patrick, a passionate data analyst based in Richardson, TX. I love diving into data, improving processes, and delivering valuable insights that drive business success.
