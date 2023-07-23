@@ -6,7 +6,7 @@ This repository is a collection of select projects showcasing my analysis skills
 ## Projects
 
 ### Excel 
-- [Bike Shop Dashboard](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Personal/Bike%20Shop%20Transactions%20dashboard%20in%20Excel)
+- [Bike Shop Dashboard](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Bike%20Shop%20Transactions%20dashboard%20in%20Excel)
 
 ### Python
 - [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
