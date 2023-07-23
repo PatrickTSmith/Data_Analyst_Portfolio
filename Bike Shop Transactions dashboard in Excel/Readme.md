@@ -31,6 +31,7 @@ The analysis and dashboard successfully present the desired insights. However, s
 
 ## Visuals
 ![Dashboard](Visuals/Bike_Dashboard_Screenshot.JPG)
+![Pivot Tables](Visuals/Pivots.JPG)
 
 ## Future work
 Here are some potential areas for future work and enhancements to the Bike Shop Dashboard:
