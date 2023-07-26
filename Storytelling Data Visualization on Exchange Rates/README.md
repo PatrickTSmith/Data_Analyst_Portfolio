@@ -1,7 +1,7 @@
 # Storytelling Data Visualization on Exchange Rates
 
 ## Overview
-In this notebook, I examined the exchange rate between the euro and U.S. Dollar between 1999 and 2021, specifically how the rate changed during the presidencies of George W. Bush, Barak Obama, and Donald Trump. 
+In this notebook, I examined the exchange rate between the euro and U.S. Dollar between 1999 and 2021, specifically how the rate changed during the presidencies of George W. Bush, Barack Obama, and Donald Trump. 
 
 ## Installation and Setup
 This project can be run directly from gituhub or downloaded and run in Jupyter notebook.

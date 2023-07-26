@@ -9,9 +9,9 @@ This repository is a collection of select projects showcasing my analysis skills
 - [Bike Shop Dashboard](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Bike%20Shop%20Transactions%20dashboard%20in%20Excel)
 
 ### Python
-- [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/Helicopter%20Prison%20Escapes%20in%20Python)
-- [Finding Heavy Traffic Indicators on I-94](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/2_2%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94)
-- [Storytelling Data Visualization on Exchange Rates](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Dataquest/2_3%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates)
+- [Helicopter Prison Escapes](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Helicopter%20Prison%20Escapes%20in%20Python)
+- [Finding Heavy Traffic Indicators on I-94](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94)
+- [Storytelling Data Visualization on Exchange Rates](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates)
 
 ### SQL
 - [CIA_Factbook_Analysis in SQL](https://github.com/PatrickTSmith/Data_Analyst_Portfolio/tree/main/CIA%20Factbook%20Analysis%20in%20SQL)
